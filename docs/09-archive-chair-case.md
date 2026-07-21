@@ -102,6 +102,13 @@
 | 1 | 아이보리 — 한국 아파트 다이닝 단독컷 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_202601_c35a7695-12af-4606-90d3-37c71fadfe01.png |
 | 2 | 아이보리 — 1200 원형 테이블 4개 세트 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_202609_b42b0cdf-22ee-4a87-934d-69e37d0e408e.png |
 | 3 | 하운드투스 — 호텔 다이닝 코너 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_202611_29febc7b-35d1-4df8-aa96-20a47e7036b8.png |
+| 4 | 믹스매치 — 아이보리+하운드투스 2색 연출 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224543_2365f69d-2e48-4a6b-aa02-39741874f488.png |
+| 5 | 아이보리 — 스튜디오 히어로컷 (대표 이미지용) | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224546_01b73066-4c99-4022-a8a9-3a82730f0757.png |
+| 6 | 하운드투스 — 원단·프레임 디테일 클로즈업 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224549_5f23087c-8662-401e-942c-4fea7d5dee1a.png |
+| 7 | 아이보리 — 쿠션 교체 장면 (시그니처 소구) | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224552_f8fb7666-1ccc-4c02-abac-4fa8d802a48c.png |
+| 8 | 아이보리 — 착석 라이프스타일 컷 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224554_bc4d6f06-c07f-4191-bb07-41117133d206.png |
+
+※ 8종 연출 중 7종 완료 (컷당 2크레딧, 총 16크레딧). 미완: 색상별 원본 사진이 더 필요한 컷 없음 — 필요 시 추가 색상 사진으로 확장.
 
 **검수 절차 (납품 전 필수)**: 위 3컷은 대표가 `04` §4 검수표로 직접 확인 후 사용 — 특히 ① 등받이 지지대(백프레임 2열 구조) ② 다리 각도와 접지 ③ 좌면 두께 ④ 원단 색 온도. 통과 컷만 사례·소개서에 사용하고, 탈락 컷은 프롬프트 수정 후 재생성(컷당 2크레딧).
 
