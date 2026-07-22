@@ -108,7 +108,15 @@
 | 7 | 아이보리 — 쿠션 교체 장면 (시그니처 소구) | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224552_f8fb7666-1ccc-4c02-abac-4fa8d802a48c.png |
 | 8 | 아이보리 — 착석 라이프스타일 컷 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260721_224554_bc4d6f06-c07f-4191-bb07-41117133d206.png |
 
-※ 8종 연출 중 7종 완료 (컷당 2크레딧, 총 16크레딧). 미완: 색상별 원본 사진이 더 필요한 컷 없음 — 필요 시 추가 색상 사진으로 확장.
+※ 8종 연출 완료 (컷당 2크레딧).
+
+**검수 피드백 반영 — v2 재생성 (2026-07-22)**: 대표 검수에서 "방석이 공간 대비 작아 장난감 같다" 지적 → 실측 치수·식탁 높이 관계·부정 지시를 프롬프트에 고정하는 **스케일 앵커** 적용(`06` §1 규칙으로 표준화). 이하 v2가 v1(1·2·4번)을 대체:
+
+| # | 연출 (v2) | 결과 URL |
+|---|---|---|
+| 1v2 | 아파트 다이닝 단독컷 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260722_014933_e2235fa5-8645-45e1-accc-6b9dbe62a458.png |
+| 2v2 | 원형 테이블 4개 세트 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260722_014937_e78adaba-9f22-4df1-899a-b592b6dc68f2.png |
+| 4v2 | 믹스매치 2색 연출 | https://d8j0ntlcm91z4.cloudfront.net/user_3CTwqX6thGd4MpmQoGou8sGc1zN/hf_20260722_014941_54bb6ee2-7348-4f32-b0cc-4023182a0aa3.png |
 
 **검수 절차 (납품 전 필수)**: 위 3컷은 대표가 `04` §4 검수표로 직접 확인 후 사용 — 특히 ① 등받이 지지대(백프레임 2열 구조) ② 다리 각도와 접지 ③ 좌면 두께 ④ 원단 색 온도. 통과 컷만 사례·소개서에 사용하고, 탈락 컷은 프롬프트 수정 후 재생성(컷당 2크레딧).
 

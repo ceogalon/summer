@@ -24,6 +24,18 @@
 
 공통 원칙: **원본 제품 사진을 반드시 입력(이미지 참조 생성)**하고, 프롬프트는 배경·조명만 지시한다. 제품 자체를 텍스트로 묘사해 새로 그리게 하지 않는다 (원형 보존). 생성 후 `04-week1-execution-kit.md` §4 검수표 통과 필수.
 
+**🚫 제품 변형 절대 금지 규칙 (대표 지시, 2026-07-22 — 모든 프롬프트 최상단 필수)**: 제품의 어떤 요소도 변형 금지. 특히 **방석(좌면 쿠션)과 등쿠션의 곡선은 이 제품 디자인의 핵심**이므로 곡률·두께·모서리 라운드를 참조 이미지 그대로 유지해야 한다. 프롬프트에 다음 블록을 그대로 삽입:
+
+> *"ABSOLUTE RULE — DO NOT ALTER THE PRODUCT: reproduce the chair exactly as in the reference photo. The oval backrest curve and the thick round seat cushion silhouette are the signature design of this product — preserve their exact curvature, thickness, edge radius, proportions, fabric and color. Change ONLY the background, lighting and camera angle. If any part of the product cannot be reproduced exactly, keep it identical to the reference rather than reinterpreting it."*
+
+검수에서 곡선·두께가 참조와 다르면 다른 항목이 아무리 좋아도 **무조건 폐기**.
+
+**⚠️ 스케일 앵커 규칙 (2026-07-21 아카이브 체어 1차 생성에서 확인된 실패 유형)**: 참조 이미지만 주면 모델이 제품을 공간 대비 작게(장난감처럼) 렌더링하는 경우가 잦다. 모든 공간 연출 프롬프트에 반드시 다음을 포함할 것 —
+① 제품 실측 치수 명시 ("full-size adult chair, 500mm wide, 800mm tall, seat height 460mm")
+② 기준 가구와의 관계 명시 ("table is 740mm tall so the seat tucks just under the tabletop")
+③ 부정 지시 ("must look substantial and full-size, NOT miniature or toy-like")
+④ 시점 고정 ("shot at adult eye level")
+
 | # | 템플릿 | 프롬프트 (영문, [제품]=참조 이미지) |
 |---|---|---|
 | 1 | 한국 아파트 거실 | Place [the exact chair from the reference photo] in a bright modern Korean apartment living room, light oak flooring, white walls with simple molding, large window with sheer curtains, soft daylight from the left, minimal styling, photorealistic interior photography, keep the product shape, color and proportions exactly as the reference |
